@@ -1,3 +1,3 @@
 ## netnex.io
 
-Cool tooling for cool games 😎
+Cool tools for cool games 😎
